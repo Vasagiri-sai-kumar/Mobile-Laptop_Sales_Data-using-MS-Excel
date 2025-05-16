@@ -4,22 +4,22 @@
 
 ## Dataset Overview
 ### Dataset Type: Structured tabular data
--- Number of Rows: 50,000
--- Number of Columns: 16
+- Number of Rows: 50,000
+- Number of Columns: 16
 
 ### Purpose of the Dataset
 This dataset can be used for:
--- Sales Analysis – Understanding product demand and pricing trends.
--- Customer Behavior Analysis– Identifying buying patterns across locations.
--- Inventory Management – Monitoring inward and dispatched product movements.
--- sales trends, customer preferences, and stock management.
+- Sales Analysis – Understanding product demand and pricing trends.
+- Customer Behavior Analysis– Identifying buying patterns across locations.
+- Inventory Management – Monitoring inward and dispatched product movements.
+- sales trends, customer preferences, and stock management.
 
 ## Key Features in the Dataset
 ### Product Information
--- Product: Type of product (Mobile Phone / Laptop).
--- Brand: Various brands like Apple, Samsung, Dell, Lenovo, OnePlus, etc.
--- Product Code: Unique identifier for each product.
--- Product Specification: Brief description of the product features.
+- Product: Type of product (Mobile Phone / Laptop).
+- Brand: Various brands like Apple, Samsung, Dell, Lenovo, OnePlus, etc.
+- Product Code: Unique identifier for each product.
+- Product Specification: Brief description of the product features.
 
 ### Sales & Pricing Details
 -- Price: Cost of the product (randomly generated).
