@@ -22,10 +22,10 @@ This dataset can be used for:
 - Product Specification: Brief description of the product features.
 
 ### Sales & Pricing Details
--- Price: Cost of the product (randomly generated).
--- Inward Date: Date when the product was received in stock.
--- Dispatch Date: Date when the product was sold/dispatched.
--- Quantity Sold: Number of units sold per transaction.
+- Price: Cost of the product (randomly generated).
+- Inward Date: Date when the product was received in stock.
+- Dispatch Date: Date when the product was sold/dispatched.
+- Quantity Sold: Number of units sold per transaction.
 
 ### Customer & Location Details
 - Customer Name: Randomly generated customer names.
