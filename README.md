@@ -28,26 +28,26 @@ This dataset can be used for:
 -- Quantity Sold: Number of units sold per transaction.
 
 ### Customer & Location Details
--- Customer Name: Randomly generated customer names.
--- Customer Location: City of the customer.
--- Region: Sales region (North, South, East, West, Central).
+- Customer Name: Randomly generated customer names.
+- Customer Location: City of the customer.
+- Region: Sales region (North, South, East, West, Central).
 
 ### Technical Specifications
--- Core Specification (For Laptops): Includes processor models like i3, i5, i7, i9, Ryzen 3-9.
--- Processor Specification (For Mobiles): Includes processors like Snapdragon, Exynos, Apple A-Series, and MediaTek Dimensity.
--- RAM: Randomly assigned memory sizes (4GB to 32GB).
--- ROM: Storage capacity (64GB to 1TB).
--- SSD (For Laptops): Additional storage (256GB to 2TB), "N/A" for mobile phones.
+- Core Specification (For Laptops): Includes processor models like i3, i5, i7, i9, Ryzen 3-9.
+- Processor Specification (For Mobiles): Includes processors like Snapdragon, Exynos, Apple A-Series, and MediaTek Dimensity.
+- RAM: Randomly assigned memory sizes (4GB to 32GB).
+- ROM: Storage capacity (64GB to 1TB).
+- SSD (For Laptops): Additional storage (256GB to 2TB), "N/A" for mobile phones.
 
 ### Potential Use Cases:
--- Business Intelligence Dashboards
--- Market Trend Analysis
--- Customer Segmentation
+- Business Intelligence Dashboards
+- Market Trend Analysis
+- Customer Segmentation
 
 ## Resources using this project
--- Kaggle website for dataset (https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data)
--- The dashboard uses color formatting from two websites
+- Kaggle website for dataset (https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data)
+- The dashboard uses color formatting from two websites
     1. https://coolors.co/palettes/trending
     2. https://pigment.shapefactory.co/
--- Use the Google search engine for references.
+- Use the Google search engine for references.
 ### Note: This project cannot use AI tools like ChatGPT, etc.
